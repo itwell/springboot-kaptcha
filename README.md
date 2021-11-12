@@ -1,3 +1,3 @@
 # springboot-kaptcha
-springboot整合kaptcha
+用来做系统中的验证码
 
